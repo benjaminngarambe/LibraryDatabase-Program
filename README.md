@@ -4,12 +4,12 @@
 
 # LibraryDatabase-Program
 database that will be used by a program that manages library. Re-quirements:
-###There are many books in library, sorted into categories
-### Each book may have multiple categories attached to them
-### Books have authors, several books may have same author, also several authors can be listen in one book
-### Books are rented by customers
-### Some books can only be rented by customers that are of appropriate age
-### Each rental must be logged into the database
+-There are many books in library, sorted into categories
+- Each book may have multiple categories attached to them
+- Books have authors, several books may have same author, also several authors can be listen in one book
+- Books are rented by customers
+- Some books can only be rented by customers that are of appropriate age
+- Each rental must be logged into the database
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update the tests as appropriate.
