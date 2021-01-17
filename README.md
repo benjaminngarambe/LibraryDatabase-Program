@@ -3,7 +3,8 @@
 </a>
 
 # LibraryDatabase-Program
-database that will be used by a program that manages library. Re-quirements:
+database that will be used by a program that manages library. 
+##Re-quirements:
 -There are many books in library, sorted into categories
 - Each book may have multiple categories attached to them
 - Books have authors, several books may have same author, also several authors can be listen in one book
